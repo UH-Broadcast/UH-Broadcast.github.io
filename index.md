@@ -39,4 +39,5 @@ It also provides code that implements a variety of useful design concepts, inclu
 This section provides a walkthrough of the Bowfolios user interface and its capabilities.
 
 ## Team
-UH-Broadcast is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+UH-Broadcast is designed, implemented, and maintained by [Weihao He](https://weihaohe-cys.github.io/), [Hubert Liang](https://hooobot.github.io/), [Sydnee You](http://sydnee-you.github.io/), [Benajmin Kim](https://bkimcode.github.io/
+), and [Mark Pascual](https://markgpascual.github.io/).
