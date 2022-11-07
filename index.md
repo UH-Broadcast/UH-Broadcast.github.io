@@ -41,3 +41,4 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 ## Team
 UH-Broadcast is designed, implemented, and maintained by [Weihao He](https://weihaohe-cys.github.io/), [Hubert Liang](https://hooobot.github.io/), [Sydnee You](http://sydnee-you.github.io/), [Benajmin Kim](https://bkimcode.github.io/
 ), and [Mark Pascual](https://markgpascual.github.io/).
+
