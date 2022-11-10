@@ -8,14 +8,9 @@ UH-Broadcast is designed, implemented, and maintained by [Weihao He](https://wei
 
 * [Overview](#overview)
 <!-- * [Deployment](#deployment) -->
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements) 
-* [Team](#team)
+* [Approach](#approach)
+* [Use Case Ideas](#use-case-ideas)
+
 
 ## Overview
 
@@ -72,8 +67,6 @@ Whether or not the following bullet points list all pages or not, the completed 
 * User logs in, lists item to sell.
 * User tries to buy item.
 * User and admin interact to ban inappropriate usage.
-
-<img src="doc/profiles-page.png">
 
 ## Beyond the Basics
 After implementing the basic functionality, here are ideas for more advanced features:
