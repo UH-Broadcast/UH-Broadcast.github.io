@@ -4,6 +4,8 @@
 UH-Broadcast is designed, implemented, and maintained by [Weihao He](https://weihaohe-cys.github.io/), [Hubert Liang](https://hooobot.github.io/), [Sydnee You](http://sydnee-you.github.io/), [Benajmin Kim](https://bkimcode.github.io/
 ), and [Mark Pascual](https://markgpascual.github.io/).
 
+Our Team Contract is located in this [document](https://docs.google.com/document/d/1k1tqSxgTJwKHZWhcACvvfOT7k_4JKaP_G-6CVPcRs6s/edit?usp=sharing).
+
 ## Table of contents
 
 <!-- * [Deployment](#deployment) -->
