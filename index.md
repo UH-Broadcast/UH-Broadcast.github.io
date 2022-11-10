@@ -6,8 +6,8 @@ UH-Broadcast is designed, implemented, and maintained by [Weihao He](https://wei
 
 ## Table of contents
 
-* [Overview](#overview)
 <!-- * [Deployment](#deployment) -->
+* [Overview](#overview)
 * [Approach](#approach)
 * [Use Case Ideas](#use-case-ideas)
 
