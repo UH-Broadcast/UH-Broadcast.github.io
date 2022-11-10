@@ -73,6 +73,8 @@ Whether or not the following bullet points list all pages or not, the completed 
 * User tries to buy item.
 * User and admin interact to ban inappropriate usage.
 
+<img src="doc/profiles-page.png">
+
 ## Beyond the Basics
 After implementing the basic functionality, here are ideas for more advanced features:
 
