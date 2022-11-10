@@ -2,9 +2,13 @@ title: UH-Broadcast
 description: Flea market for the UH Community
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
 github:
   is_project_page: true
   repository_url: https://github.com/bowfolios/bowfolios
 gems:
   - jekyll-mentions
+  
+  
