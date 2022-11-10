@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1fa83ec-151b-464d-8f9a-12ba0608d79a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/Advanced-search.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Landing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/add-listing.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/admin-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/edit-contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/report-submission.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/signin-page.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,12 +28,18 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HEnCieedkKhBksqH0F6f7MvwrI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -32,6 +47,11 @@
     "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667858985351</updated>
       <workItem from="1667858987294" duration="640000" />
+      <workItem from="1668060115832" duration="38000" />
+      <workItem from="1668060264880" duration="5160000" />
     </task>
     <servers />
   </component>
@@ -57,5 +79,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

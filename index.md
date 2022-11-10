@@ -38,6 +38,52 @@ UH-Broadcast is an example web application that provides pages to view and post 
 
 This section provides a walkthrough of the UH-Broadcast user interface and its capabilities.
 
+#### Landing Page
+
+<img src="./docs/Landing.png">
+
+
+#### Login Page
+
+<img src="./docs/signin-page.png">
+
+- Allows students and members of UH System to sign in using their UH accounts. 
+- User accounts have limited access, admin accounts have access to restricting accounts and removing inappropriate posts/listings.
+
+#### User Home Page / Admin Home Page
+
+<img src="./docs/home.png">
+<img src="docs/admin-page.png">
+
+- The home page for User and Admin would be relatively similar with the only difference being the administrative features being visible for designated Admin accounts.
+
+- Users can view recent listings and sort using nav-bar dropdown to specify category
+
+#### Report Abuse Page
+<img src="docs/report-submission.webp">
+
+- Allows users to submit reports to admins about specific posts or users that may be rulebreaking. 
+
+#### Add Listings Page
+
+<img src="docs/add-listing.jpeg">
+
+- Allows users to add products/services to be sold/offered. Should also allow users to upload pictures conveniently. 
+
+#### Search Page with Categories
+
+<img src="docs/Advanced-search.webp"/>
+
+- Allows users to categorically search and organize listings based on selected constraints.
+
+#### Edit Listings Page
+
+<img src="docs/edit-contact.png">
+
+- Allows users to edit their existing posts when necessary.
+
+
+
 ## Team
 UH-Broadcast is designed, implemented, and maintained by [Weihao He](https://weihaohe-cys.github.io/), [Hubert Liang](https://hooobot.github.io/), [Sydnee You](http://sydnee-you.github.io/), [Benajmin Kim](https://bkimcode.github.io/
 ), and [Mark Pascual](https://markgpascual.github.io/).
