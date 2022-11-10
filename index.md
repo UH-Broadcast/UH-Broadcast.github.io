@@ -49,18 +49,53 @@ Note: if you choose this idea for your final project, you cannot name it “Mano
 
 Some possible mockup pages include:
 
-* Landing page
-* User home page
-* Admin home page
-* User Profile page
-* Categories page
-* Category page
-* List Item page
-* Create item page
-* Make offer on item page
-* Notify admin page
+## User Guide
 
-<img src="doc/profiles-page.png">
+This section provides a walkthrough of the UH-Broadcast user interface and its capabilities.
+
+#### Landing Page
+
+<img src="./doc/Landing.png">
+
+
+#### Login Page
+
+<img src="./doc/signin-page.png">
+
+- Allows students and members of UH System to sign in using their UH accounts.
+- User accounts have limited access, admin accounts have access to restricting accounts and removing inappropriate posts/listings.
+
+#### User Home Page / Admin Home Page
+
+<img src="./doc/home.png">
+<img src="doc/admin-page.png">
+
+- The home page for User and Admin would be relatively similar with the only difference being the administrative features being visible for designated Admin accounts.
+
+- Users can view recent listings and sort using nav-bar dropdown to specify category
+
+#### Report Abuse Page
+<img src="doc/report-submission.webp">
+
+- Allows users to submit reports to admins about specific posts or users that may be rulebreaking.
+
+#### Add Listings Page
+
+<img src="doc/add-listing.jpeg">
+
+- Allows users to add products/services to be sold/offered. Should also allow users to upload pictures conveniently.
+
+#### Search Page with Categories
+
+<img src="doc/Advanced-search.webp"/>
+
+- Allows users to categorically search and organize listings based on selected constraints.
+
+#### Edit Listings Page
+
+<img src="doc/edit-contact.png">
+
+- Allows users to edit their existing posts when necessary.
 
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
