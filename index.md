@@ -58,6 +58,8 @@ Some possible mockup pages include:
 * Make offer on item page
 * Notify admin page
 
+<img src="doc/profiles-page.png">
+
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
