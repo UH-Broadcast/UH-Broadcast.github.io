@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1fa83ec-151b-464d-8f9a-12ba0608d79a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Advanced-search.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Landing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/add-listing.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/admin-page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/edit-contact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/report-submission.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/signin-page.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Landing.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Landing.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +27,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.sourceCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="UH-Broadcast.github.io" />
@@ -73,6 +64,8 @@
       <updated>1667858985351</updated>
       <workItem from="1667858987294" duration="640000" />
       <workItem from="1668105910757" duration="401000" />
+      <workItem from="1668122441189" duration="45000" />
+      <workItem from="1668122782096" duration="226000" />
     </task>
     <servers />
   </component>
