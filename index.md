@@ -55,7 +55,7 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 
 #### Landing Page
 
-<img src="./doc/Landing.png">
+<img src="./doc/landing.png">
 
 
 #### Login Page
@@ -67,41 +67,43 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 
 #### User Home Page / Admin Home Page
 
-<img src="./doc/home.png">
-<img src="doc/admin-page.png">
+<img src="./doc/user-home.png">
+<img src="doc/admin-home.png">
 
 - The home page for User and Admin would be relatively similar with the only difference being the administrative features being visible for designated Admin accounts.
 
 - Users can view recent listings and sort using nav-bar dropdown to specify category
 
-#### Report Abuse Page
+<!-- #### Report Abuse Page
 <img src="doc/report-submission.webp">
 
-- Allows users to submit reports to admins about specific posts or users that may be rulebreaking.
+- Allows users to submit reports to admins about specific posts or users that may be rulebreaking. -->
 
 #### Add Listings Page
 
-<img src="doc/add-listing.jpeg">
+<img src="doc/add-item.png">
 
 - Allows users to add products/services to be sold/offered. Should also allow users to upload pictures conveniently.
 
-#### Search Page with Categories
+<!-- #### Search Page with Categories
 
 <img src="doc/Advanced-search.webp"/>
 
-- Allows users to categorically search and organize listings based on selected constraints.
+- Allows users to categorically search and organize listings based on selected constraints. -->
 
-#### Edit Listings Page
+<!-- #### Edit Listings Page
 
 <img src="doc/edit-contact.png">
 
-- Allows users to edit their existing posts when necessary.
+- Allows users to edit their existing posts when necessary. -->
 
 ## Deployment 
 [Digital Ocean Deployment](http://164.92.98.221/)
 
 ## Project Milestones
-[Milestone 1](https://github.com/orgs/UH-Broadcast/projects/1/views/1) [Milestone 2](https://github.com/orgs/UH-Broadcast/projects/2/views/1)
+[Milestone 1](https://github.com/orgs/UH-Broadcast/projects/1/views/1)
+<br>
+[Milestone 2](https://github.com/orgs/UH-Broadcast/projects/2/views/1)
 
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
