@@ -11,7 +11,10 @@ Our Team Contract is located in this [document](https://docs.google.com/document
 <!-- * [Deployment](#deployment) -->
 * [Overview](#overview)
 * [Approach](#approach)
-* [Use Case Ideas](#use-case-ideas)
+* [Walkthrough](#userguide)
+* [Deployment](#deployment)
+* [Project Milestones](#project-milestones)
+* [Beyond The Basics](#beyond-the-basics)
 
 
 ## Overview
