@@ -97,6 +97,12 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 
 - Allows users to edit their existing posts when necessary.
 
+## Deployment 
+[Digital Ocean Deployment](http://164.92.98.221/)
+
+## Project Milestones
+[Milestone 1](https://github.com/orgs/UH-Broadcast/projects/1/views/1) [Milestone 2](https://github.com/orgs/UH-Broadcast/projects/2/views/1)
+
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
