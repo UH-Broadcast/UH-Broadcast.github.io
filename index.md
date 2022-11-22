@@ -71,7 +71,7 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 #### User Home Page / Admin Home Page
 
 <img src="./doc/user-home.png">
-<img src="doc/admin-home.png">
+<img src="doc/admin_home.jpg">
 
 - The home page for User and Admin would be relatively similar with the only difference being the administrative features being visible for designated Admin accounts.
 
@@ -81,6 +81,15 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 <img src="doc/report-submission.webp">
 
 - Allows users to submit reports to admins about specific posts or users that may be rulebreaking. -->
+
+#### User/Admin List Item Page
+<img src="./doc/user_listitem.jpg">
+<img src="./doc/admin_item_page.jpg">
+
+- List Item page will retrieve all the items in the database.
+- User will only ouput the items they added.
+- Admin will be able to retrieve all items from all accounts.
+- Click on delete to remove the item from the database.
 
 #### Add Listings Page
 
