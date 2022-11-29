@@ -12,6 +12,7 @@ Our Team Contract is located in this [document](https://docs.google.com/document
 * [Overview](#overview)
 * [Approach](#approach)
 * [Walkthrough](#userguide)
+* [Developer Guide](#Developer Guide)
 * [Deployment](#deployment)
 * [Project Milestones](#project-milestones)
 * [Beyond The Basics](#beyond-the-basics)
@@ -108,6 +109,18 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 <img src="doc/edit-contact.png">
 
 - Allows users to edit their existing posts when necessary. -->
+
+## Developer Guide
+
+#### Installation
+
+#### Application Design
+
+#### Data model
+
+#### Quality Assurance
+
+#### Testing
 
 ## Deployment 
 [Digital Ocean Deployment](http://164.92.98.221/)
