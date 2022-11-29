@@ -122,6 +122,8 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 
 #### Testing
 
+#### Continuous Integration
+
 ## Deployment 
 [Digital Ocean Deployment](http://164.92.98.221/)
 
