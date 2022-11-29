@@ -287,7 +287,7 @@ The workflow definition file is quite simple and is located at
 
 
 ## Deployment 
-[Digital Ocean Deployment](http://164.92.98.221/)
+[Digital Ocean Deployment](http://uh-broadcast.online/)
 
 ## Project Milestones
 [Milestone 1](https://github.com/orgs/UH-Broadcast/projects/1/views/1)
