@@ -93,7 +93,7 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 
 #### Add Listings Page
 
-<img src="doc/add-item.png">
+<img src="doc/uhbroadcastaddlisting.png">
 
 - Allows users to add products/services to be sold/offered. Should also allow users to upload pictures conveniently.
 
