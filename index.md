@@ -178,8 +178,8 @@ Here is sample output indicating that no ESLint errors were detected:
 ```
 $ meteor npm run lint
 
-> UH-Broadcast@ lint /Users/philipjohnson/github/bowfolios/bowfolios/app
-> eslint --quiet --ext .jsx --ext .js ./imports ./tests
+> UH-Broadcast@ lint C:\Users\HRLia\Documents\GitHub\BroadcastHosting\app
+> eslint --quiet --ext .jsx --ext .js ./imports && eslint --quiet --ext .js ./tests
 
 $
 ```
@@ -192,9 +192,9 @@ It's significantly easier to do development with ESLint integrated directly into
 
 UH Broadcast uses [TestCafe](https://devexpress.github.io/testcafe/) to provide automated end-to-end testing.
 
-The UH Broadcast end-to-end test code employs the page object model design pattern.  In the [bowfolios tests/ directory](https://github.com/bowfolios/bowfolios/tree/main/app/tests), the file [tests.testcafe.js](https://github.com/bowfolios/bowfolios/blob/main/app/tests/tests.testcafe.js) contains the TestCafe test definitions. The remaining files in the directory contain "page object models" for the various pages in the system (i.e. Home, Landing, Interests, etc.) as well as one component (navbar). This organization makes the test code shorter, easier to understand, and easier to debug.
+The UH Broadcast end-to-end test code employs the page object model design pattern.  In the [broadcasthosting tests/ directory](https://github.com/uh-broadcast/broadcasthosting/tree/main/app/tests), the file [tests.testcafe.js](https://github.com/UH-Broadcast/BroadcastHosting/blob/main/app/tests/tests.testcafe.js) contains the TestCafe test definitions. The remaining files in the directory contain "page object models" for the various pages in the system (i.e. Home, Landing, Interests, etc.) as well as one component (navbar). This organization makes the test code shorter, easier to understand, and easier to debug.
 
-To run the end-to-end tests in development mode, you must first start up a BowFolios instance by invoking `meteor npm run start` in one console window.
+To run the end-to-end tests in development mode, you must first start up a BroadcastHosting instance by invoking `meteor npm run start` in one console window.
 
 Then, in another console window, start up the end-to-end tests with:
 
@@ -207,25 +207,23 @@ You will see browser windows appear and disappear as the tests run.  If the test
 ```
 $ meteor npm run testcafe
 
-> bowfolios@ testcafe /Users/philipjohnson/github/bowfolios/bowfolios/app
-> testcafe chrome tests/*.testcafe.js
+> UH-Broadcast@ testcafe C:\Users\HRLia\Documents\GitHub\BroadcastHosting\app
+> testcafe chrome tests/*.testcafe.js      
 
  Running tests in:
- - Chrome 86.0.4240.111 / macOS 10.15.7
+ - Chrome 107.0.0.0 / Windows 10   
 
- Bowfolios localhost test with default db
- ✓ Test that landing page shows up
- ✓ Test that signin and signout work
- ✓ Test that signup page, then logout works
- ✓ Test that profiles page displays
- ✓ Test that interests page displays
- ✓ Test that projects page displays
- ✓ Test that home page display and profile modification works
- ✓ Test that addProject page works
- ✓ Test that filter page works
+ UH-Broadcast localhost test with default db
+ √ Test that landing page shows up
+ √ Test that SignIn and SignOut work
+ √ Test the List Item page
+ √ Test the Add Listing page
+ √ Test the Make Offer page
+ √ Test the Categories page
 
 
- 9 passed (40s)
+ 6 passed (1m 44s)
+
 
  $
 ```
@@ -239,25 +237,22 @@ Then, invoke `meteor npm run testcafe-ci`.  You will not see any windows appear.
 ```
 $ meteor npm run testcafe-ci
 
-> bowfolios@ testcafe-ci /Users/philipjohnson/github/bowfolios/bowfolios/app
+> UH-Broadcast@ testcafe-ci C:\Users\HRLia\Documents\GitHub\BroadcastHosting\app
 > testcafe chrome:headless tests/*.testcafe.js -q --app "meteor npm run start"
 
  Running tests in:
- - Chrome 86.0.4240.111 / macOS 10.15.7
-
- Bowfolios localhost test with default db
+ - Chrome 107.0.5304.122 / Windows 10       
+                                            
+ UH Broadcast localhost test with default db
  ✓ Test that landing page shows up (unstable)
- ✓ Test that signin and signout work
- ✓ Test that signup page, then logout works
- ✓ Test that profiles page displays
- ✓ Test that interests page displays
- ✓ Test that projects page displays
- ✓ Test that home page display and profile modification works
- ✓ Test that addProject page works
- ✓ Test that filter page works
+ √ Test that SignIn and SignOut work
+ √ Test the List Item page
+ √ Test the Add Listing page
+ √ Test the Make Offer page
+ √ Test the Categories page
 
 
- 9 passed (56s)
+ 6 passed (2m 14s)
 
 $
 ```
@@ -280,10 +275,10 @@ UH Broadcast is meant to illustrate the use of Meteor for developing an initial 
 
 ![ci-badge](https://github.com/bowfolios/bowfolios/workflows/ci-bowfolios/badge.svg)
 
-UH Broadcast uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/bowfolios/bowfolios/actions](https://github.com/bowfolios/bowfolios/actions).
+UH Broadcast uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/UH-Broadcast/BroadcastHosting/actions](https://github.com/UH-Broadcast/BroadcastHosting/actions).
 
 The workflow definition file is quite simple and is located at
-[.github/workflows/ci.yml](https://github.com/bowfolios/bowfolios/blob/main/.github/workflows/ci.yml).
+[.github/workflows/ci.yml](https://github.com/UH-Broadcast/BroadcastHosting/actions/workflows/ci.yml).
 
 
 ## Deployment 
