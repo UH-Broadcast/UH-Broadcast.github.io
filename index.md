@@ -71,8 +71,8 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 
 #### User Home Page / Admin Home Page
 
-<img src="./doc/user-home.png">
-<img src="doc/admin_home.jpg">
+<img src="./doc/home_page_2.png">
+<img src="doc/home_page_admin.png">
 
 - The home page for User and Admin would be relatively similar with the only difference being the administrative features being visible for designated Admin accounts.
 
@@ -84,17 +84,24 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 - Allows users to submit reports to admins about specific posts or users that may be rulebreaking. -->
 
 #### User/Admin List Item Page
-<img src="./doc/user_listitem.jpg">
-<img src="./doc/admin_item_page.jpg">
+<img src="./doc/list_items_2.png">
+<img src="./doc/admin_items2.png">
 
 - List Item page will retrieve all the items in the database.
 - User will only ouput the items they added.
 - Admin will be able to retrieve all items from all accounts.
 - Click on delete to remove the item from the database.
 
+#### All Items by Category Page
+<img src="./doc/categories_page1.png">
+
+- This allows both users and admin alike to view all the items for sale.
+- It is like the Admin List Item Page except users cannot delete the items. 
+
+
 #### Add Listings Page
 
-<img src="doc/uhbroadcastaddlisting.png">
+<img src="doc/add_listing2.png">
 
 - Allows users to add products/services to be sold/offered. Should also allow users to upload pictures conveniently.
 
@@ -288,6 +295,8 @@ The workflow definition file is quite simple and is located at
 [Milestone 1](https://github.com/orgs/UH-Broadcast/projects/1/views/1)
 <br>
 [Milestone 2](https://github.com/orgs/UH-Broadcast/projects/2/views/1)
+<br>
+[Milestone 3](https://github.com/orgs/UH-Broadcast/projects/3)
 
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
