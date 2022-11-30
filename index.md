@@ -119,9 +119,9 @@ This section provides information of interest to Meteor developers wishing to us
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, visit the [Bowfolios application github page](https://github.com/UH-Broadcast/BroadcastHosting), and click the "Clone" button to clone your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+Second, visit the [UH Broadcast application github page](https://github.com/UH-Broadcast/BroadcastHosting), and click the "Clone" button to clone your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
 
-Third, cd into the bowfolios/app directory and install libraries with:
+Third, cd into the BroadcastHosting/app directory and install libraries with:
 
 ```
 $ meteor npm install
@@ -141,7 +141,7 @@ UH Broadcast is based upon [meteor-application-template-react](https://ics-softw
 
 ### Data model
 
-As noted above, the Bowfolios data model consists of three "primary" collections (Projects, Profiles, and Interests), as well as three "join" Collections (ProfilesProjects, ProfilesInterests, and ProjectsInterests).  To understand this design choice, consider the situation where you want to specify the projects associated with a Profile.
+As noted above, the UH Broadcast data model consists of three "primary" collections (Projects, Profiles, and Interests), as well as three "join" Collections (ProfilesProjects, ProfilesInterests, and ProjectsInterests).  To understand this design choice, consider the situation where you want to specify the projects associated with a Profile.
 
 Design choice #1: Provide a field in Profile collection called "Projects", and fill it with an array of project names. This choice works great when you want to display a Profile and indicate the Projects it's associated with.  But what if you want to go the other direction: display a Project and all of the Profiles associated with it?  Then you have to do a sequential search through all of the Profiles, then do a sequential search through that array field looking for a match.  That's computationally expensive and also just silly.
 
@@ -156,7 +156,7 @@ The fields in boldface (Email for Profiles, and Name for Projects and Interests)
 
 ## Initialization
 
-The [config](https://github.com/bowfolios/bowfolios/tree/main/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/bowfolios/bowfolios/blob/main/config/settings.development.json).
+The [config](https://github.com/uh-broadcast/broadcasthosting/tree/main/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/UH-Broadcast/BroadcastHosting/blob/main/config/settings.development.json).
 
 This file contains default definitions for Profiles, Projects, and Interests and the relationships between them. Consult the walkthrough video for more details.
 
@@ -167,7 +167,7 @@ The settings.development.json file contains a field called "loadAssetsFile". It 
 
 #### ESLint
 
-UH Broadcast includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/main/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+UH Broadcast includes a [.eslintrc](https://github.com/UH-Broadcast/BroadcastHosting/blob/main/app/.eslintrc.js) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
 ```
 meteor npm run lint
