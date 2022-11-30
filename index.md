@@ -281,6 +281,7 @@ UH Broadcast is meant to illustrate the use of Meteor for developing an initial 
 ## Continuous Integration
 
 Badge from Integration:
+<br>
 [![ci-UH-Broadcast](https://github.com/UH-Broadcast/BroadcastHosting/actions/workflows/ci.yml/badge.svg)](https://github.com/UH-Broadcast/BroadcastHosting/actions/workflows/ci.yml)
 
 UH Broadcast uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/UH-Broadcast/BroadcastHosting/actions](https://github.com/UH-Broadcast/BroadcastHosting/actions).
