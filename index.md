@@ -156,7 +156,7 @@ Design choice #2:  Provide a "join" collection where each document contains two 
 
 UH Broadcast implements Design choice #2 to provide pair-wise relations between all three of its primary collections:
 
-![](images/datamodel.jpg)
+![](./doc/datamodel.jpg)
 
 The fields in boldface (Email for Profiles, and Name for Projects and Interests) indicate that those fields must have unique values so that they can be used as a primary key for that collection. This constraint is enforced in the schema definition associated with that collection.
 
