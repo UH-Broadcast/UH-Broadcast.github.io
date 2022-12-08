@@ -117,6 +117,13 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 
 - Allows users to edit their existing posts when necessary. -->
 
+## Community Feedback
+
+This section comprises of feedback about our application from fellow UH students who are not currently in our software engineering class.
+
+### Rena
+Rena, Sydnee's former classmate from a semester ago, reviewed the website and suggested being able to add multiple images for one item as sellers usually use multiple images to show the item at different angles.  She commented that our website looks cute and is easy to use even for beginners who are not used to navigating websites. She thinks also commented that it looks professional.
+
 
 ## Developer Guide
 
