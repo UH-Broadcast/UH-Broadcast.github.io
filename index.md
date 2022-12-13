@@ -125,7 +125,18 @@ This section comprises of feedback about our application from fellow UH students
 ### Rena
 Rena, Sydnee's former classmate from a semester ago, reviewed the website and suggested being able to add multiple images for one item as sellers usually use multiple images to show the item at different angles.  She commented that our website looks cute and is easy to use even for beginners who are not used to navigating websites. She thinks also commented that it looks professional.
 
+### Anat
+Anat, a computer science student currently not in ICS 314, pointed out that she liked how the website (especially the layout of the items and descriptions) were very organized. She, like Rena, liked how it was easy to use.
 
+### Cole
+Cole, another computer science student currently not in ICS 314, stated that maybe we could add a wishlist page.  He mentioned that the name of the website could be better since "broadcast" sounds like a radio station instead of a website for buying and selling.
+
+### Elizette
+Elizette, a UH student, suggested that we could have an edit feature for the items added where one could go back to a previously created item for sale and edit any of its contents. She thinks the Home Page could have more information about it or an about page.  However, she, like some of the other reviewers did like the design of the website.
+
+
+### Janessa
+Janessa, a UH student not in any STEM field, thinks the website looks good overall and that the purpose of the site and the way to navigate the site is clear and easy to use.
 ## Developer Guide
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
