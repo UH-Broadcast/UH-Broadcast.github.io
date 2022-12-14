@@ -94,10 +94,11 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 - Click on delete to remove the item from the database.
 
 #### All Items by Category Page
-<img src="./doc/categories_page1.png">
+<img src="./doc/ItemListingPage.png">
 
 - This allows both users and admin alike to view all the items for sale.
 - It is like the Admin List Item Page except users cannot delete the items. 
+- The items for sale can be filtered by category. 
 
 
 #### Add Listings Page
