@@ -89,12 +89,12 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 <img src="./doc/admin_items2.png">
 
 - List Item page will retrieve all the items in the database.
-- User will only ouput the items they added.
+- The Users page will only ouput what is owned by a particular user.
 - Admin will be able to retrieve all items from all accounts.
 - Click on delete to remove the item from the database.
 
 #### All Items by Category Page
-<img src="./doc/category-final.jpg">
+<img src="./doc/ItemListingPage.png">
 
 - This allows both users and admin alike to view all the items for sale.
 - It is like the Admin List Item Page except users cannot delete the items. 
@@ -105,7 +105,7 @@ This section provides a walkthrough of the UH-Broadcast user interface and its c
 
 <img src="doc/add_listing2.png">
 
-- Allows users to add products/services to be sold/offered. Should also allow users to upload pictures conveniently.
+- Allows users to add products/services to be sold/offered.
 
 <!-- #### Search Page with Categories
 
