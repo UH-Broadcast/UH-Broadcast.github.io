@@ -313,7 +313,7 @@ The workflow definition file is quite simple and is located at
 ## Deployment 
 Previously we had UH Broadcast deployed via Digital Ocean.
 <br>
-However, due to monetary limitations in only exists within the [public repo:](https://github.com/UH-Broadcast/BroadcastHosting)  
+However, due to monetary limitations in only exists within its [public repo.](https://github.com/UH-Broadcast/BroadcastHosting)  
 <!-- [Digital Ocean Deployment](http://uh-broadcast.online/) -->
 
 ## Project Milestones
